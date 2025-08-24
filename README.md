@@ -7,4 +7,4 @@ Features:
 - Items & Limiteds grabber
 - more soon!
 
-Make sure to check release for the newest Version!
+Make sure to check releases for the newest Version!
